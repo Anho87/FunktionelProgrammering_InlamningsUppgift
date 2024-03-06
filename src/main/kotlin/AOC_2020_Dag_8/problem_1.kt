@@ -6,7 +6,7 @@ var accCounter = 0
 var checkIfAlreadyBeenthere: MutableList<Int> = mutableListOf()
 fun main() {
     val dataList: List<String> =
-        File("src/main/kotlin/kotlin/AOC_2020_Dag_8/input").readLines()
+        File("src/main/kotlin/AOC_2020_Dag_8/input").readLines()
     println(fixGame(dataList, 0))
 }
 

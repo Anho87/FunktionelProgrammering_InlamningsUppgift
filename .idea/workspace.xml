@@ -4,23 +4,30 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8d67d0fa-d1e1-4e6b-9799-9c9b73cdacd9" name="Changes" comment="first push">
+    <list default="true" id="8d67d0fa-d1e1-4e6b-9799-9c9b73cdacd9" name="Changes" comment="bug fix">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/kotlin/AOC_2020_Dag_1/problem_1.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/kotlin/AOC_2020_Dag_1/problem_1.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/kotlin/AOC_2020_Dag_1/problem_1improved.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/kotlin/AOC_2020_Dag_1/problem_1improved.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/kotlin/AOC_2020_Dag_1/problem_2.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/kotlin/AOC_2020_Dag_1/problem_2.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/kotlin/AOC_2020_Dag_1/problem_2improved.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/kotlin/AOC_2020_Dag_1/problem_2improved.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/kotlin/AOC_2020_Dag_10/problem_1.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/kotlin/AOC_2020_Dag_10/problem_1.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/kotlin/AOC_2020_Dag_10/problem_1improved.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/kotlin/AOC_2020_Dag_10/problem_1improved.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/kotlin/AOC_2020_Dag_2/problem_1.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/kotlin/AOC_2020_Dag_2/problem_1.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/kotlin/AOC_2020_Dag_2/problem_1improved.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/kotlin/AOC_2020_Dag_2/problem_1improved.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/kotlin/AOC_2020_Dag_2/problem_2.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/kotlin/AOC_2020_Dag_2/problem_2.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/kotlin/AOC_2020_Dag_2/problem_2improved.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/kotlin/AOC_2020_Dag_2/problem_2improved.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/kotlin/AOC_2020_Dag_6/problem_1.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/kotlin/AOC_2020_Dag_6/problem_1.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/kotlin/AOC_2020_Dag_6/problem_1improved.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/kotlin/AOC_2020_Dag_6/problem_1improved.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/kotlin/AOC_2020_Dag_8/problem_1.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/kotlin/AOC_2020_Dag_8/problem_1.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/kotlin/AOC_2020_Dag_8/problem_1improved.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/kotlin/AOC_2020_Dag_8/problem_1improved.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/kotlin/Test.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/kotlin/Test.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/kotlin/AOC_2020_Dag_1/input" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/AOC_2020_Dag_1/input" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/kotlin/AOC_2020_Dag_1/problem_1.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/AOC_2020_Dag_1/problem_1.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/kotlin/AOC_2020_Dag_1/problem_1improved.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/AOC_2020_Dag_1/problem_1improved.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/kotlin/AOC_2020_Dag_1/problem_2.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/AOC_2020_Dag_1/problem_2.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/kotlin/AOC_2020_Dag_1/problem_2improved.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/AOC_2020_Dag_1/problem_2improved.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/kotlin/AOC_2020_Dag_10/input" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/AOC_2020_Dag_10/input" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/kotlin/AOC_2020_Dag_10/problem_1.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/AOC_2020_Dag_10/problem_1.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/kotlin/AOC_2020_Dag_10/problem_1improved.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/AOC_2020_Dag_10/problem_1improved.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/kotlin/AOC_2020_Dag_2/input" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/AOC_2020_Dag_2/input" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/kotlin/AOC_2020_Dag_2/problem_1.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/AOC_2020_Dag_2/problem_1.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/kotlin/AOC_2020_Dag_2/problem_1improved.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/AOC_2020_Dag_2/problem_1improved.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/kotlin/AOC_2020_Dag_2/problem_2.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/AOC_2020_Dag_2/problem_2.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/kotlin/AOC_2020_Dag_2/problem_2improved.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/AOC_2020_Dag_2/problem_2improved.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/kotlin/AOC_2020_Dag_6/input" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/AOC_2020_Dag_6/input" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/kotlin/AOC_2020_Dag_6/problem_1.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/AOC_2020_Dag_6/problem_1.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/kotlin/AOC_2020_Dag_6/problem_1improved.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/AOC_2020_Dag_6/problem_1improved.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/kotlin/AOC_2020_Dag_8/input" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/AOC_2020_Dag_8/input" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/kotlin/AOC_2020_Dag_8/problem_1.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/AOC_2020_Dag_8/problem_1.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/kotlin/AOC_2020_Dag_8/problem_1improved.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/AOC_2020_Dag_8/problem_1improved.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/kotlin/Vg_Del/Tomte.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/Vg_Del/Tomte.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/kotlin/Vg_Del/TomteHierarki.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/Vg_Del/TomteHierarki.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/kotlin/Vg_Del/Tomteland.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/Vg_Del/Tomteland.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -76,7 +83,14 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="TestNG.Test.dag10Test">
+  <component name="RunManager" selected="TestNG.Test">
+    <configuration name="Problem_1Kt (1)" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="AOC_2020_Dag_8.Problem_1Kt" />
+      <module name="FunktionelProgrammering_InlamningsUppgift" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Problem_1Kt (2)" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="AOC_2020_Dag_10.Problem_1Kt" />
       <module name="FunktionelProgrammering_InlamningsUppgift" />
@@ -109,25 +123,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Test.dag10Test" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="FunktionelProgrammering_InlamningsUppgift" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="Test" />
-      <option name="METHOD_NAME" value="dag10Test" />
-      <option name="TEST_OBJECT" value="METHOD" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="TestNG.Test.dag10Test" />
         <item itemvalue="TestNG.Test" />
         <item itemvalue="Kotlin.TomtelandKt" />
         <item itemvalue="Kotlin.Problem_1improvedKt (2)" />
         <item itemvalue="Kotlin.Problem_1Kt (2)" />
+        <item itemvalue="Kotlin.Problem_1Kt (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -141,8 +143,16 @@
       <updated>1709723768613</updated>
       <workItem from="1709723769693" duration="1723000" />
       <workItem from="1709726549528" duration="859000" />
-      <workItem from="1709727425074" duration="258000" />
+      <workItem from="1709727425074" duration="937000" />
     </task>
+    <task id="LOCAL−00001" summary="bug fix">
+      <option name="closed" value="true" />
+      <created>1709727926801</created>
+      <option name="number" value="LOCAL−00001" />
+      <option name="presentableId" value="LOCAL−00001" />
+      <updated>1709727926801</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -150,6 +160,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="first push" />
-    <option name="LAST_COMMIT_MESSAGE" value="first push" />
+    <MESSAGE value="bug fix" />
+    <option name="LAST_COMMIT_MESSAGE" value="bug fix" />
   </component>
 </project>

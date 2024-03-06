@@ -8,7 +8,7 @@ import java.io.File
 //
 fun main() {
     val dataList: List<Int> =
-        File("src/main/kotlin/kotlin/AOC_2020_Dag_1/input").readLines().map { it.toInt() }.sorted()
+        File("src/main/kotlin/AOC_2020_Dag_1/input").readLines().map { it.toInt() }.sorted()
 
     println(addTwoNumbersWithLambda(dataList))
 }
