@@ -5,7 +5,7 @@ import java.io.File
 
 fun main() {
     val dataList: MutableList<Int> =
-        File("src/main/kotlin/AOC_2020_Dag_10/input").readLines().map { it.toInt() }.toMutableList()
+        File("src/main/kotlin/kotlin/AOC_2020_Dag_10/input").readLines().map { it.toInt() }.toMutableList()
     dataList.sort()
     println(connectors(dataList))
 }

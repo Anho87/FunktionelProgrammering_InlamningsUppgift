@@ -1,18 +1,45 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="8d67d0fa-d1e1-4e6b-9799-9c9b73cdacd9" name="Changes" comment="" />
+    <list default="true" id="8d67d0fa-d1e1-4e6b-9799-9c9b73cdacd9" name="Changes" comment="first push">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/kotlin/AOC_2020_Dag_1/problem_1.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/kotlin/AOC_2020_Dag_1/problem_1.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/kotlin/AOC_2020_Dag_1/problem_1improved.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/kotlin/AOC_2020_Dag_1/problem_1improved.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/kotlin/AOC_2020_Dag_1/problem_2.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/kotlin/AOC_2020_Dag_1/problem_2.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/kotlin/AOC_2020_Dag_1/problem_2improved.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/kotlin/AOC_2020_Dag_1/problem_2improved.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/kotlin/AOC_2020_Dag_10/problem_1.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/kotlin/AOC_2020_Dag_10/problem_1.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/kotlin/AOC_2020_Dag_10/problem_1improved.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/kotlin/AOC_2020_Dag_10/problem_1improved.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/kotlin/AOC_2020_Dag_2/problem_1.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/kotlin/AOC_2020_Dag_2/problem_1.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/kotlin/AOC_2020_Dag_2/problem_1improved.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/kotlin/AOC_2020_Dag_2/problem_1improved.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/kotlin/AOC_2020_Dag_2/problem_2.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/kotlin/AOC_2020_Dag_2/problem_2.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/kotlin/AOC_2020_Dag_2/problem_2improved.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/kotlin/AOC_2020_Dag_2/problem_2improved.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/kotlin/AOC_2020_Dag_6/problem_1.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/kotlin/AOC_2020_Dag_6/problem_1.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/kotlin/AOC_2020_Dag_6/problem_1improved.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/kotlin/AOC_2020_Dag_6/problem_1improved.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/kotlin/AOC_2020_Dag_8/problem_1.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/kotlin/AOC_2020_Dag_8/problem_1.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/kotlin/AOC_2020_Dag_8/problem_1improved.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/kotlin/AOC_2020_Dag_8/problem_1improved.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/kotlin/Test.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/kotlin/Test.kt" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Kotlin Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 4
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 4
+}</component>
   <component name="ProjectId" id="2dJQalsQ1zCSEAhV2uhcp6clD9U" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -21,13 +48,89 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Downloaded.Files.Path.Enabled": "false",
+    "Repository.Attach.Annotations": "false",
+    "Repository.Attach.JavaDocs": "false",
+    "Repository.Attach.Sources": "false",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
     "git-widget-placeholder": "master",
+    "last_opened_file_path": "C:/Users/ante_/Desktop/Inlamningsuppgift_1",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "project.structure.last.edited": "Libraries",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "run.code.analysis.last.selected.profile": "pProject Default",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\ante_\IdeaProjects\FunktionelProgrammering_InlamningsUppgift\src\main\kotlin" />
+    </key>
+    <key name="CopyKotlinDeclarationDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunManager" selected="TestNG.Test.dag10Test">
+    <configuration name="Problem_1Kt (2)" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="AOC_2020_Dag_10.Problem_1Kt" />
+      <module name="FunktionelProgrammering_InlamningsUppgift" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Problem_1improvedKt (2)" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="AOC_2020_Dag_10.Problem_1improvedKt" />
+      <module name="FunktionelProgrammering_InlamningsUppgift" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TomtelandKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Vg_Del.TomtelandKt" />
+      <module name="FunktionelProgrammering_InlamningsUppgift" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="FunktionelProgrammering_InlamningsUppgift" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="Test" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test.dag10Test" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="FunktionelProgrammering_InlamningsUppgift" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="Test" />
+      <option name="METHOD_NAME" value="dag10Test" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.Test.dag10Test" />
+        <item itemvalue="TestNG.Test" />
+        <item itemvalue="Kotlin.TomtelandKt" />
+        <item itemvalue="Kotlin.Problem_1improvedKt (2)" />
+        <item itemvalue="Kotlin.Problem_1Kt (2)" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -36,8 +139,17 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1709723768613</updated>
-      <workItem from="1709723769693" duration="1000" />
+      <workItem from="1709723769693" duration="1723000" />
+      <workItem from="1709726549528" duration="859000" />
+      <workItem from="1709727425074" duration="258000" />
     </task>
     <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="first push" />
+    <option name="LAST_COMMIT_MESSAGE" value="first push" />
   </component>
 </project>

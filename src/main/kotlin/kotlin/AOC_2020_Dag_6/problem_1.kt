@@ -4,7 +4,7 @@ import java.io.File
 
 fun main(){
     val dataList: List<String> =
-        File("src/main/kotlin/AOC_2020_Dag_6/input").readLines()
+        File("src/main/kotlin/kotlin/AOC_2020_Dag_6/input").readLines()
             .joinToString("\n")
             .split("\n\n").map { it.replace("\n","") }
     

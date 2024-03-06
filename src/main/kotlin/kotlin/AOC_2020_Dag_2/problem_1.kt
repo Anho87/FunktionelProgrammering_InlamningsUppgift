@@ -5,7 +5,7 @@ import java.io.File
 //AOC_2020_DAG_2
 fun main() {
     val dataList: List<String> =
-        File("src/main/kotlin/AOC_2020_Dag_2/input").readLines()
+        File("src/main/kotlin/kotlin/AOC_2020_Dag_2/input").readLines()
     println(checkPasswords(dataList))
 }
 
